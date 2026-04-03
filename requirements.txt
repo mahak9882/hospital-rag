@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pymupdf
+supabase
+sentence-transformers
+groq
+streamlit
+requests
+python-multipart
