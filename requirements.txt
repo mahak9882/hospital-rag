@@ -8,3 +8,4 @@ groq
 streamlit
 requests
 python-multipart
+SpeechRecognition
