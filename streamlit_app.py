@@ -8,7 +8,7 @@ st.set_page_config(page_title="Hospital RAG Assistant", layout="centered")
 st.title("🏥 Hospital AI Assistant")
 st.write("Ask questions from your hospital document")
 
-API_URL = "https://hospital-rag-gokz.onrender.com"
+API_URL = "https://hospital-rag-1.onrender.com"
 
 # Upload Section
 st.header("📤 Upload Document")
